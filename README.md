@@ -1,4 +1,4 @@
-#UCDPD_fetch
+# UCDPD_fetch
 
 This repository contains small scripts which automate the fetching and conversion of incident logs from the UC Davis police department website
 
